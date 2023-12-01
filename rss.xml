@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <title>O nama</title>
+            <link></link>
+            <description>Sve informacije o ordinaciji na jednom mestu!</description>
+        </item>
+        <item>
+            <title>Usluge koje pružamo</title>
+            <link></link>
+            <description>Za više detalja kontaktirajte nas.</description>
+        </item>
+    </channel>
+</rss>
