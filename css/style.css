@@ -142,7 +142,7 @@ ul{
   box-shadow: 0 0 130px 0 rgba(0, 0, 0, 0.2);
 }
 #services{
-  width: 45%;
+  width: 55%;
 }
 #services h2{
   color: #AF7AC5;
@@ -152,7 +152,7 @@ ul{
 #services ul{
   color: #626567;
   font-size: 20px;
-  padding: 5px 0px;
+  padding: 5px 10px;
   list-style-type: circle;
   text-align: left;
 }
