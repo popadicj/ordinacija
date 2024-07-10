@@ -122,7 +122,7 @@ ul{
   justify-content: space-between;
 }
 .card-col {
-  flex-basis: 20%;
+  flex-basis: 26%;
   background: #AF7AC5 ;
   border-radius: 20%;
   margin-bottom: 2%;
@@ -247,7 +247,7 @@ footer .social-menu a:hover{
 }
 /*ABOUT US*/
 .about-us{
-  width: 78%;
+  width: 70%;
   margin: 30px auto;
   padding: 2px;
   box-shadow: 1px 1px 5px;
